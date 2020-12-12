@@ -26,5 +26,5 @@ node app.js
   Required:Headers:Authorization [token]
   ```
 
-** Checkout screenshots for better understanding **
+## Refer to example directory for better understanding
 
